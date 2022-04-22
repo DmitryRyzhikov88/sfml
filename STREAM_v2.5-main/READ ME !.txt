@@ -1,0 +1,5 @@
+Запускать stream_main.py 
+
+Находясь в дирректории текущей папки, выполнить команду:
+
+streamlit run stream_main.py
