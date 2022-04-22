@@ -1,0 +1,103 @@
+,0
+0,"                                                   0                                                  1  ...                                                  3   4
+0  General Tickers Insider Sh Price $ Lqdty M$ Da...  Transaction Filing  P - Purchase S - Sale A - ...  ...  Group by function toggleGrp2() { \tvar sel = d... NaN
+
+[1 rows x 5 columns]"
+1,"            0   1
+0     Tickers NaN
+1     Insider NaN
+2  Sh Price $ NaN
+3    Lqdty M$ NaN"
+2,"              0                                                  1
+0   Filing Date  All dates \tCustom \tLatest day \tLast 3 days ...
+1           NaN                                                NaN
+2    Trade Date  All dates \tCustom \tLatest day \tLast 3 days ...
+3           NaN                                                NaN
+4  Filing Delay                                                NaN
+5    N Days Ago                                                NaN"
+3,"                                                   0                                                  1
+0  Transaction Filing  P - Purchase S - Sale A - ...  Transaction Filing  P - Purchase S - Sale A - ...
+1  Industry All Sectors (except Funds) Agricultur...  Industry All Sectors (except Funds) Agricultur..."
+4,"                                                   0                                                  1
+0  P - Purchase S - Sale A - Grant D - Sale to Is...  F - Tax M - Option Ex X - Option Ex C - Cnv De...
+1                                           No deriv                                      Multiple Days
+2                                          Traded K$                                                NaN
+3                                          Own Chg %                                                NaN"
+5,"                                                   0
+0  All Sectors (except Funds) Agriculture, Forest..."
+6,"                                                   0
+0  Insider Title function isoffCheck() {  var o =..."
+7,"          0                                                  1
+0  Group by  function toggleGrp2() { \tvar sel = document.g..."
+8,"           0   1
+0    Filings NaN
+1   Insiders NaN
+2   Officers NaN
+3  Traded K$ NaN
+4  Own Chg % NaN"
+9,"             0                                                  1
+0      Sort by  Filing Date \tTrade Date \tTicker Symbol \tTra...
+1  Max Results                                                NaN
+2         Page                                                NaN
+3          NaN                                              clear"
+10,"Empty DataFrame
+Columns: [TC, cnt, 1d, 1w, 1m, 6m]
+Index: []"
+11,"      X          Filing Date  Trade Date Ticker               Insider Name                           Title    Trade Type   Price    Qty   Owned   ΔOwn        Value  1d  1w  1m  6m
+0   NaN  2022-02-24 16:25:08  2022-02-22   INTC                Ishrak Omar                             Dir  P - Purchase  $45.11  11025   46224   +31%    +$497,323 NaN NaN NaN NaN
+1   NaN  2022-02-24 16:23:24  2022-02-22   INTC        Gelsinger Patrick P                             CEO  P - Purchase  $44.27   5600  268947    +2%    +$247,891 NaN NaN NaN NaN
+2    DM  2022-02-02 21:09:15  2022-02-01   INTC       Rodgers Steven Ralph                          EVP GC   S - Sale+OE  $48.35 -26763  110745   -19%  -$1,293,936 NaN NaN NaN NaN
+3   NaN  2021-12-06 17:49:43  2021-12-03   INTC           Bryant Gregory M                    EVP, GM, CCG      S - Sale  $49.69  -1417   96746    -1%     -$70,411 NaN NaN NaN NaN
+4     D  2021-11-03 17:55:03  2021-11-02   INTC       Rodgers Steven Ralph                          EVP GC   S - Sale+OE  $49.63  -2972  103387    -3%    -$147,500 NaN NaN NaN NaN
+5     D  2021-11-03 17:46:12  2021-11-02   INTC           Bryant Gregory M                    EVP, GM, CCG   S - Sale+OE  $49.63  -2841   98163    -3%    -$140,999 NaN NaN NaN NaN
+6   NaN  2021-11-01 16:56:35  2021-10-28   INTC             Weisler Dion J                             Dir  P - Purchase  $48.11  10351   27450   +61%    +$498,035 NaN NaN NaN NaN
+7   NaN  2021-11-01 16:53:12  2021-10-28   INTC            Smith Gregory D                             Dir  P - Purchase  $47.96  10440   15203  +219%    +$500,652 NaN NaN NaN NaN
+8   NaN  2021-11-01 16:52:04  2021-10-28   INTC           Liu Tsu-Jae King                             Dir  P - Purchase  $48.00   1000   18924    +6%     +$48,000 NaN NaN NaN NaN
+9   NaN  2021-11-01 16:50:59  2021-10-28   INTC                Ishrak Omar                             Dir  P - Purchase  $48.02  20000   35199  +132%    +$960,418 NaN NaN NaN NaN
+10  NaN  2021-10-28 17:13:38  2021-10-26   INTC             Weisler Dion J                             Dir  P - Purchase  $48.57   5147   17099   +43%    +$249,978 NaN NaN NaN NaN
+11  NaN  2021-10-26 16:09:59  2021-10-25   INTC              Yeary Frank D                             Dir  P - Purchase  $49.66  10000   58808   +20%    +$496,595 NaN NaN NaN NaN
+12  NaN  2021-10-26 16:08:54  2021-10-25   INTC             Weisler Dion J                             Dir  P - Purchase  $49.85   5015   11952   +72%    +$249,998 NaN NaN NaN NaN
+13  NaN  2021-10-26 16:07:20  2021-10-25   INTC      Lavizzo-Mourey Risa J                             Dir  P - Purchase  $49.50   5000   12079   +71%    +$247,500 NaN NaN NaN NaN
+14  NaN  2021-10-26 16:06:17  2021-10-25   INTC              Goetz James J                             Dir  P - Purchase  $49.76  20000  198521   +11%    +$995,200 NaN NaN NaN NaN
+15  NaN  2021-10-26 16:04:56  2021-10-25   INTC        Gelsinger Patrick P                             CEO  P - Purchase  $49.94  10000  219750    +5%    +$499,398 NaN NaN NaN NaN
+16  NaN  2021-09-07 16:23:49  2021-09-03   INTC           Bryant Gregory M                    EVP, GM, CCG      S - Sale  $53.41  -1418   96974    -1%     -$75,735 NaN NaN NaN NaN
+17    D  2021-08-03 16:18:16  2021-08-02   INTC       Rodgers Steven Ralph                          EVP GC   S - Sale+OE  $54.00  -2972  103387    -3%    -$160,488 NaN NaN NaN NaN
+18    D  2021-08-03 16:14:21  2021-08-02   INTC       McBride Kevin Thomas    VP Finance, Corp. Controller   S - Sale+OE  $54.00   -383   14626    -3%     -$20,682 NaN NaN NaN NaN
+19    D  2021-08-03 16:10:49  2021-08-02   INTC           Bryant Gregory M                    EVP, GM, CCG   S - Sale+OE  $54.00  -2842   98392    -3%    -$153,468 NaN NaN NaN NaN
+20  NaN  2021-06-01 16:22:12  2021-05-28   INTC       Rodgers Steven Ralph                          EVP GC      S - Sale  $57.61  -2972  103387    -3%    -$171,217 NaN NaN NaN NaN
+21  NaN  2021-05-06 16:29:12  2021-05-04   INTC             Weisler Dion J                             Dir  P - Purchase  $56.00   4464    4464    New    +$249,984 NaN NaN NaN NaN
+22    D  2021-05-04 16:57:49  2021-05-03   INTC               Shenoy Navin  EVP, GM - Data Platforms Group   S - Sale+OE  $57.83  -2561   72946    -3%    -$148,103 NaN NaN NaN NaN
+23    D  2021-05-04 16:54:23  2021-05-03   INTC       McBride Kevin Thomas    VP Finance, Corp. Controller   S - Sale+OE  $57.83   -381   14420    -3%     -$22,033 NaN NaN NaN NaN
+24    D  2021-05-04 16:50:46  2021-05-03   INTC           Bryant Gregory M                    EVP, GM, CCG   S - Sale+OE  $57.83  -2842   97202    -3%    -$164,353 NaN NaN NaN NaN
+25  NaN  2021-02-26 16:19:58  2021-02-24   INTC               Shenoy Navin  EVP, GM - Data Platforms Group      S - Sale  $60.59  -5067   71698    -7%    -$307,010 NaN NaN NaN NaN
+26  NaN  2021-02-24 16:14:16  2021-02-22   INTC       McBride Kevin Thomas    VP Finance, Corp. Controller      S - Sale  $61.58   -524   14214    -4%     -$32,268 NaN NaN NaN NaN
+27  NaN  2021-02-04 16:22:33  2021-02-02   INTC       McBride Kevin Thomas    VP Finance, Corp. Controller      S - Sale  $57.17   -589   14214    -4%     -$33,673 NaN NaN NaN NaN
+28  NaN  2021-02-04 16:21:19  2021-02-02   INTC           Bryant Gregory M                    EVP, GM, CCG      S - Sale  $57.17  -3693   95489    -4%    -$211,129 NaN NaN NaN NaN
+29  NaN  2021-01-28 16:11:51  2021-01-26   INTC             Davis George S                             CFO  P - Purchase  $55.34   9095   78363   +13%    +$503,317 NaN NaN NaN NaN
+30  NaN  2021-01-27 16:40:58  2021-01-25   INTC         Swan Robert Holmes                             CEO  P - Purchase  $55.57  27244  488307    +6%  +$1,514,004 NaN NaN NaN NaN
+31    D  2020-11-03 16:38:46  2020-11-02   INTC               Shenoy Navin  EVP, GM - Data Platforms Group   S - Sale+OE  $44.96  -2848   71174    -4%    -$128,046 NaN NaN NaN NaN
+32    D  2020-11-03 16:34:15  2020-11-02   INTC       McBride Kevin Thomas    VP Finance, Corp. Controller   S - Sale+OE  $44.96   -589   14214    -4%     -$26,481 NaN NaN NaN NaN
+33    D  2020-11-03 16:29:30  2020-11-02   INTC           Bryant Gregory M                    EVP, GM, CCG   S - Sale+OE  $44.96  -3692   95489    -4%    -$165,992 NaN NaN NaN NaN
+34  NaN  2020-10-29 16:14:58  2020-10-28   INTC         Swan Robert Holmes                             CEO  P - Purchase  $44.96   8021  313208    +3%    +$360,624 NaN NaN NaN NaN
+35  NaN  2020-09-23 16:39:38  2020-09-21   INTC       McBride Kevin Thomas    VP Finance, Corp. Controller      S - Sale  $49.28  -4400   14214   -24%    -$216,832 NaN NaN NaN NaN
+36    D  2020-08-05 17:37:37  2020-08-04   INTC               Shenoy Navin  EVP, GM - Data Platforms Group   S - Sale+OE  $48.68   -244   70058     0%     -$11,878 NaN NaN NaN NaN
+37    D  2020-07-31 16:38:22  2020-07-31   INTC               Shenoy Navin  EVP, GM - Data Platforms Group   S - Sale+OE  $48.18  -2847   70058    -4%    -$137,168 NaN NaN NaN NaN
+38  NaN  2020-07-28 17:04:51  2020-07-24   INTC         Swan Robert Holmes                             CEO  P - Purchase  $50.00   8021  296958    +3%    +$401,050 NaN NaN NaN NaN
+39  NaN  2020-07-02 16:39:35  2020-07-01   INTC               Shenoy Navin  EVP, GM - Data Platforms Group      S - Sale  $59.83  -7018   68942    -9%    -$419,887 NaN NaN NaN NaN
+40  NaN  2020-07-02 16:37:53  2020-07-01   INTC       Rodgers Steven Ralph                          EVP GC      S - Sale  $60.00   -567   91929    -1%     -$34,020 NaN NaN NaN NaN
+41  NaN  2020-07-02 16:35:35  2020-06-30   INTC           Bryant Gregory M                    EVP, GM, CCG      S - Sale  $58.71  -5000   91416    -5%    -$293,550 NaN NaN NaN NaN
+42    D  2020-05-05 16:11:40  2020-05-04   INTC               Shenoy Navin  EVP, GM - Data Platforms Group   S - Sale+OE  $57.08   -243   75960     0%     -$13,870 NaN NaN NaN NaN
+43    D  2020-05-04 17:33:22  2020-04-30   INTC               Shenoy Navin  EVP, GM - Data Platforms Group   S - Sale+OE  $58.83  -2848   75960    -4%    -$167,548 NaN NaN NaN NaN
+44  NaN  2020-05-01 16:41:04  2020-04-29   INTC  Renduchintala Venkata S M               Group Pres (TSCG)      S - Sale  $60.67 -46544   95797   -33%  -$2,824,032 NaN NaN NaN NaN
+45  NaN  2020-04-09 16:17:20  2020-04-07   INTC       Rodgers Steven Ralph                          EVP GC      S - Sale  $60.00 -38220   89013   -30%  -$2,293,200 NaN NaN NaN NaN
+46  NaN  2020-04-03 16:27:50  2020-04-01   INTC               Shenoy Navin  EVP, GM - Data Platforms Group      S - Sale  $52.81 -10935   74844   -13%    -$577,476 NaN NaN NaN NaN"
+12,"   0                                                  1
+0  A                                     Amended filing
+1  D  Derivative transaction in filing (usually opti...
+2  E                           Error detected in filing
+3  M  Multiple transactions in filing; earliest repo..."
+13,"              0                                                  1
+0      S - Sale  Sale of securities on an exchange or to anothe...
+1   S - Sale+OE  Sale of securities on an exchange or to anothe...
+2       F - Tax  Payment of exercise price or tax liability usi...
+3  P - Purchase  Purchase of securities on an exchange or from ..."
